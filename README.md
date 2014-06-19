@@ -6,7 +6,7 @@ btcturk price ticker for your command line.
 ![screenshot](http://i.imgur.com/VZhi5au.png)
 
 
-#### installation
+### installation
 
 ```bash
 $ git clone https://github.com/emre/btcturk-ticker.git
